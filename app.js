@@ -1,4 +1,6 @@
-        // ASSINGMENT 1
+        // =========>Assignment 1=========>
+
+        // =====chapter 1 Alert======
          //    Question 1
         // alert("Hello Waqas");
 
@@ -21,7 +23,7 @@
 
        
 
-    // Assignment 2
+    // =====chapter 2 variable for string======
     // Question 1
     // var username;
 
@@ -67,7 +69,7 @@
 
 
 
-    // ASSIGNMENT 3
+    // =====chapter 3 variable for number======
     // Question 1
     // var age="i am 23 years old";
     // alert(age);
